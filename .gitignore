@@ -1,0 +1,3 @@
+.venv
+.vscode
+property_base/db.sqlite3
