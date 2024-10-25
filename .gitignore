@@ -1,3 +1,5 @@
 .venv
 .vscode
 property_base/db.sqlite3
+property_base/main/__pycache__
+property_base/property_base/__pycache__
